@@ -20,7 +20,7 @@ spring:
       spec: maximumSize=100,expireAfterWrite=1m
 
 simulate:
-  failure: true
+  failure: false
 
 logging:
   level:

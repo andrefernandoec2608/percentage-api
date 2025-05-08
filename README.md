@@ -1,16 +1,6 @@
 # Dynamic Percentage API
 
-API REST desarrollada con Spring Boot 3 y Java 21 que realiza cálculos aplicando un porcentaje dinámico obtenido de un servicio externo simulado. También guarda el historial de llamadas y se ejecuta con Docker.
-
-
-## 👤 Autor
-
-**André Llumiquinga**
-
-- 💼 Desarrollador Backend Java / Spring Boot
-- 🌐 [LinkedIn](https://www.linkedin.com/in/andre-llc)
-- 🐙 [GitHub](https://github.com/andrefernandoec2608/)
-- ✉️ andrefernando.llc@gmail.com
+RESTful APIs desarrollados con Spring Boot 3 y Java 21 además guarda un historial de logs en PostgreSQL, se ejecuta con Docker.
 
 ## 🚀 Características
 
@@ -56,7 +46,6 @@ La documentación Swagger UI está disponible en:
 👉 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 
-## 📝 Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.  
-Consulta el archivo [LICENSE](LICENSE) para más información.
+## 👨‍💻 Autor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20Llumiquinga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andre-llc/)
+[![GitHub](https://img.shields.io/badge/GitHub-André%20Llumiquinga-black?style=flat&logo=github)](https://github.com/andrefernandoec2608)
