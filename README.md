@@ -1,6 +1,6 @@
 # Dynamic Percentage API
 
-RESTful APIs desarrollados con Spring Boot 3 y Java 21 además guarda un historial de logs en PostgreSQL, se ejecuta con Docker.
+RESTful APIs desarrollados con Spring Boot 3 y Java 21 además guarda un historial de logs en PostgreSQL, se ejecuta con Docker Compose.
 
 ## 🚀 Características
 
